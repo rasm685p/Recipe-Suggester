@@ -1,5 +1,5 @@
 {
-  "name": "opskrift-finderen",
+  "name": "recipe-suggester",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
